@@ -1,0 +1,38 @@
+
+#main{
+    height: 200px;
+    width: 100px;
+    border-style: solid;
+    
+}
+#red{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    border-radius: 50%;
+    text-align: center;
+    border-style: solid;
+    margin:  7px 20px 5px 20px;
+    
+}
+#green{
+    height: 50px;
+    width: 50px;
+    background-color:green;
+    border-radius: 50%;
+    text-align: center;
+    border-style: solid;
+    margin: 7px 20px 5px 20px;
+    
+
+}
+#yellow{
+    height: 50px;
+    width: 50px;
+    background-color: yellow;
+    border-radius: 50%;
+    text-align: center;
+    border-style: solid;
+    margin:  7px 20px 5px 20px;
+    
+}
